@@ -11,11 +11,11 @@ QQ/微信号：1334682389/GP469058926
 
 专科/新余学院计算机应用技术
 
-工作年限：1年
+工作年限：2年
 
 技术博客：http://blog.csdn.net/GP_666
 
-Github：http://github.com/geekcompany ( 有原创repo的Github帐号会极大的提升你的个人品牌 )
+Github：https://github.com/xuanxiebiji
 
 期望职位：PHP高级程序员
 
@@ -52,7 +52,6 @@ Github：http://github.com/geekcompany ( 有原创repo的Github帐号会极大�
 Web开发：PHP/Hack/Node
 Web框架：ThinkPHP/Yaf/Yii/Laravel
 前端框架：Bootstrap/HTML5
-前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
 数据库相关：MySQL/PDO
 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Composer
 单元测试：PHPUnit/SimpleTest/Qunit
