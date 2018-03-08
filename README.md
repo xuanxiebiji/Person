@@ -18,7 +18,7 @@ QQ/微信号：1334682389/GP469058926
 
 技术博客：http://blog.csdn.net/GP_666
 
-Github：http://github.com/geekcompany ( 有原创repo的Github帐号会极大的提升你的个人品牌 )
+Github：http://github.com/xuanxiebiji
 
 期望职位：PHP高级程序员
 
@@ -52,15 +52,13 @@ ABC公司 （ 2017年3月 ~ 2018年2月 ）
 
 Web开发：PHP/Hack/Node
 
-Web框架：ThinkPHP/Yaf/Yii/Laravel
+Web框架：ThinkPHP/Laravel
 
 前端框架：Bootstrap/HTML5
 
-前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-
 数据库相关：MySQL/PDO
 
-版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Composer
+版本管理、文档和自动化部署工具：Svn/Git/Composer
 
 单元测试：PHPUnit/SimpleTest/Qunit
 
