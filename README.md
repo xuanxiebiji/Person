@@ -12,9 +12,9 @@ QQ/微信号：1334682389/GP469058926
 
 葛鹏  / 男 / 1997
 
-专科/新余学院计算机应用技术
+本科/新余学院计算机应用技术
 
-工作年限：1年
+工作年限：2年
 
 技术博客：http://blog.csdn.net/GP_666
 
@@ -50,16 +50,10 @@ ABC公司 （ 2017年3月 ~ 2018年2月 ）
 技能清单
 =============
 
-Web开发：PHP/Hack/Node
+1、熟悉php+mysql+javascript+jquery+ajax技术
+2、对数据库的操作、优化有一定的经验 ，熟练redis、memcache缓存的使用
+3、熟悉linux操作，可以独自搭建lnmp、lamp环境，svn、git版本库的部署
+4、熟练tp、yii2.0框架的使用
+5、熟悉微信小程序、公众号的开发
+6、熟练掌握lamp、lnmp环境开发，实现对mysql的增、删、改、查，定时备份数据库、还原优化
 
-Web框架：ThinkPHP/Laravel
-
-前端框架：Bootstrap/HTML5
-
-数据库相关：MySQL/PDO
-
-版本管理、文档和自动化部署工具：Svn/Git/Composer
-
-单元测试：PHPUnit/SimpleTest/Qunit
-
-云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
