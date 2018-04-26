@@ -5,6 +5,7 @@
         籍   贯：江西                           工作经验: 2年
 
         联系方式：15779595135      电子邮箱：gp15779595135@163.com
+       
        技术博客：http://blog.csdn.net/GP_666            Github：http://github.com/xuanxiebiji
 
 #### 求职意向
